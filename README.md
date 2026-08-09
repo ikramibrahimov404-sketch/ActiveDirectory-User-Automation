@@ -1,3 +1,5 @@
+<img width="1376" height="768" alt="photo" src="https://github.com/user-attachments/assets/f27b6335-6b84-4be3-9bd0-8b4cae0d0878" />
+
 # PowerShell & Active Directory Automation
 
 Active Directory-də istifadəçilərin (şagirdlərin) CSV faylından kütləvi yaradılması üçün PowerShell skripti.
@@ -102,5 +104,3 @@ $script:SAMPatt = @(
 ## Lisans
 
 [MIT](LICENSE)
-
-<img width="1376" height="768" alt="photo" src="https://github.com/user-attachments/assets/f27b6335-6b84-4be3-9bd0-8b4cae0d0878" />
