@@ -12,4 +12,4 @@ Bu PowerShell skripti CSV faylından mərkəzləşdirilmiş məlumatları oxuyar
 
 ## 🚀 İstifadə Qaydası
 ```powershell
-.\sagird_AD_yarat.ps1 -CSVPath "C:\path\to\sagirdler.csv"
+.\users_AD_yarat.ps1 -CSVPath "C:\path\to\users_AD_yarat.csv"
