@@ -102,3 +102,5 @@ $script:SAMPatt = @(
 ## Lisans
 
 [MIT](LICENSE)
+
+<img width="1376" height="768" alt="photo" src="https://github.com/user-attachments/assets/f27b6335-6b84-4be3-9bd0-8b4cae0d0878" />
