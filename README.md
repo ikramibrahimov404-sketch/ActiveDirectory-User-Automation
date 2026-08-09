@@ -1,4 +1,4 @@
-# users_AD_yarat
+# PowerShell & Active Directory Automation
 
 Active Directory-də istifadəçilərin (şagirdlərin) CSV faylından kütləvi yaradılması üçün PowerShell skripti.
 OU strukturu avtomatik qurulur, SamAccountName 48 kombinasiya qaydası ilə yaradılır və unikallıq yaddaşda (HashSet) yoxlanılır.
