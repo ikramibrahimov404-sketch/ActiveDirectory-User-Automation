@@ -1,2 +1,16 @@
+# Log və xəta faylları
 *.log
 *_xetalar.csv
+
+# CSV fayllarında real parollar ola bilər - repo-ya düşməsin
+samples/*.csv
+!samples/sagirdler.csv.example
+
+# Windows / PowerShell
+Thumbs.db
+Desktop.ini
+*.ps1.bak
+
+# IDE
+.vscode/
+.idea/
